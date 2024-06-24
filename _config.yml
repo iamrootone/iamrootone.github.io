@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Knowledge Archive"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Your Name"
@@ -115,9 +115,12 @@ author:
   name             : "Geunwon Jun"
   avatar           : "/assets/images/bio-photo.JPG"
   bio              : "ML/AI Engineer"
-  location         : "Gwacheon-si, Gyeonggi-do, Republic of Korea"
-  email            :
+  location         : "Gwacheon, Korea"
+  email            : "rmsdnjs13@snu.ac.kr"
   links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/%EA%B7%BC%EC%9B%90-%EC%A0%84-a70a73270/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
