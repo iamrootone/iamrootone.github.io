@@ -112,10 +112,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Geunwon Jun"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "ML/AI Engineer"
+  location         : "Gwacheon-si, Gyeonggi-do, Republic of Korea"
   email            :
   links:
     - label: "Email"
